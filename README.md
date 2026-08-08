@@ -22,6 +22,10 @@ I thrive on converting complex business problems into highly optimized, clean co
     <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;
+  <a href="https://github.com/sathishraja-dev" target="_blank">
+    <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
   <a href="mailto:er.sathishraja@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="40" height="40"/>
   </a>
@@ -285,7 +289,7 @@ I thrive on converting complex business problems into highly optimized, clean co
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Sathish-Raja&theme=transparent&hide_border=true"
+    src="https://streak-stats.demolab.com?user=sathishraja-dev&theme=transparent&hide_border=true"
     alt="Sathish Raja GitHub Streak"
   />
 </p>
