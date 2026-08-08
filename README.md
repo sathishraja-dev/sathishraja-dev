@@ -12,49 +12,24 @@ I thrive on converting complex business problems into highly optimized, clean co
 - 📫 How to reach me: er.sathishraja@gmail.com
 - ⚡ Fun fact: I have a deep background engineering robotic fleet automation platforms (AMRs) and intelligent chat interfaces.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sathish-raja-87199751" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sathish-raja-87199751" height="30" width="40" /></a>
-</p>
+### Connect with me:
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+
+---
 
 ### 🛠️ Languages and Tools
 
 #### 🤖 Generative AI & Orchestration
-<p align="left">
-  <img src="https://shields.io" alt="LangGraph" />
-  <img src="https://shields.io" alt="RAG" />
-  <img src="https://shields.io" alt="Qdrant" />
-  <img src="https://shields.io" alt="MCP" />
-</p>
+![LangGraph](https://shields.io) ![RAG](https://shields.io) ![Qdrant](https://shields.io) ![MCP](https://shields.io)
 
 #### 💻 Frontend Engineering
-<p align="left">
-  <img src="https://shields.io" alt="Next.js" />
-  <img src="https://shields.io" alt="React" />
-  <img src="https://shields.io" alt="TypeScript" />
-  <img src="https://shields.io" alt="Zustand" />
-  <img src="https://shields.io" alt="Tailwind" />
-  <img src="https://shields.io" alt="Vue" />
-</p>
+![Next.js](https://shields.io) ![React](https://shields.io) ![TypeScript](https://shields.io) ![Zustand](https://shields.io) ![Tailwind](https://shields.io) ![Vue](https://shields.io)
 
 #### ⚙️ Backend & Distributed Tasks
-<p align="left">
-  <img src="https://shields.io" alt="Node" />
-  <img src="https://shields.io" alt="Express" />
-  <img src="https://shields.io" alt="BullMQ" />
-  <img src="https://shields.io" alt="Redis" />
-  <img src="https://shields.io" alt="GraphQL" />
-  <img src="https://shields.io" alt="PHP" />
-</p>
+![Node](https://shields.io) ![Express](https://shields.io) ![BullMQ](https://shields.io) ![Redis](https://shields.io) ![GraphQL](https://shields.io) ![PHP](https://shields.io)
 
 #### 🗄️ Databases & DevOps
-<p align="left">
-  <img src="https://shields.io" alt="MongoDB" />
-  <img src="https://shields.io" alt="MySQL" />
-  <img src="https://shields.io" alt="Elasticsearch" />
-  <img src="https://shields.io" alt="Docker" />
-  <img src="https://shields.io" alt="AWS" />
-</p>
+![MongoDB](https://shields.io) ![MySQL](https://shields.io) ![Elasticsearch](https://shields.io) ![Docker](https://shields.io) ![AWS](https://shields.io)
 
 ---
 
